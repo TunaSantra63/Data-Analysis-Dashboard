@@ -1,124 +1,84 @@
-# E-Commerce Sales & Customer Analytics Dashboard
-Overview
+# E-Commerce Order & Customer Analytics
 
-This project presents an interactive E-Commerce Sales & Customer Analytics Dashboard developed in Microsoft Excel. The dashboard transforms raw transactional data into meaningful business insights by analyzing sales, revenue, customers, products, order status, payment methods, customer ratings, and regional performance.
+## Project Overview
 
-The project demonstrates the practical application of data cleaning, data analysis, KPI development, PivotTables, PivotCharts, slicers, and dashboard design in Excel.
+This project is an **interactive E-Commerce Order and Customer Analytics Dashboard developed using Microsoft Excel**. The purpose of this project is to analyze e-commerce transaction data and convert it into meaningful business insights through data cleaning, analysis, visualization, and dashboard development.
 
-Objectives
-Analyze overall e-commerce sales and revenue performance.
-Monitor key business performance indicators (KPIs).
-Identify top-performing products and categories.
-Analyze customer purchasing behavior and segmentation.
-Compare sales performance across regions and states.
-Analyze order status and payment method trends.
-Evaluate customer satisfaction using ratings.
-Build an interactive dashboard for effective business decision-making.
-Key Performance Indicators
+The dashboard provides an overview of sales performance, revenue, customer behavior, product performance, regional trends, order status, payment methods, and customer ratings.
 
-The dashboard includes the following KPIs:
+## Objectives
 
-Total Orders
-Total Customers
-Total Quantity Sold
-Net Revenue
-Average Order Value (AOV)
-Average Customer Rating
-Dashboard Analysis
+The main objectives of this project are:
 
-The dashboard provides insights into:
+* Analyze overall sales and revenue performance.
+* Track important business KPIs.
+* Identify top-performing products and categories.
+* Understand customer purchasing behavior.
+* Analyze regional and state-wise sales performance.
+* Evaluate order status and payment methods.
+* Analyze customer ratings and satisfaction.
+* Present insights through an interactive and user-friendly dashboard.
 
-Sales & Revenue Performance
-Product & Category Performance
-Customer Analysis
-Regional & State-wise Performance
-Order Status Distribution
-Payment Method Analysis
-Customer Ratings
-Overall Business Performance
-Data Processing Workflow
-Raw Data
-   ↓
-Data Cleaning
-   ↓
-Data Processing
-   ↓
-Backend Calculations
-   ↓
-PivotTables & PivotCharts
-   ↓
-Interactive Dashboard
-   ↓
-Business Insights
-Tools & Techniques
-Tool / Technique	Purpose
-Microsoft Excel	Data analysis and dashboard development
-Excel Formulas	Calculations and KPI creation
-PivotTables	Data aggregation and analysis
-PivotCharts	Data visualization
-Slicers	Interactive filtering
-Data Cleaning	Preparing raw data for analysis
-Dashboard Design	Presenting insights visually
-Dataset
+## Key Analysis
 
-The dataset contains e-commerce transaction information such as:
+The project includes analysis of:
 
-Order ID
-Order Date
-Customer ID
-Customer Name
-Gender
-Age
-City
-State
-Region
-Product
-Category
-Quantity
-Unit Price
-Discount
-Shipping Cost
-Payment Method
-Order Status
-Customer Rating
-Customer Segment
-Gross Sales
-Discount Amount
-Net Revenue
-Key Business Insights
+* Sales and revenue trends
+* Product and category performance
+* Customer behavior and segmentation
+* Region and state-wise performance
+* Order status distribution
+* Payment method preferences
+* Customer ratings
+* Quantity sold and order volume
+* Average Order Value (AOV)
+* Overall business performance
 
-The dashboard enables users to identify:
+## Dashboard KPIs
 
-Products and categories generating the highest revenue.
-Regions and states with strong sales performance.
-Customer purchasing patterns and segments.
-Most commonly used payment methods.
-Distribution of different order statuses.
-Customer satisfaction trends based on ratings.
-Overall order, quantity, and revenue performance.
-Project Structure
-E-Commerce-Sales-Customer-Analytics/
-│
-├── E-Commerce_Analytics.xlsx
-│
-└── README.md
-Skills Demonstrated
-Data Cleaning
-Data Analysis
-Microsoft Excel
-KPI Development
-PivotTables
-PivotCharts
-Interactive Slicers
-Dashboard Development
-Data Visualization
-Business Intelligence
-Business Insights
-Conclusion
+The dashboard tracks key performance indicators such as:
 
-This project demonstrates how Microsoft Excel can be used to transform raw e-commerce transaction data into an interactive business intelligence dashboard. The analysis provides a clear view of sales, customers, products, revenue, and operational performance, supporting data-driven business decisions.
+* Total Orders
+* Total Customers
+* Quantity Sold
+* Net Revenue
+* Average Order Value
+* Average Customer Rating
 
-Project Type: Data Analytics / Business Intelligence
-Tool: Microsoft Excel
-Domain: E-Commerce
-Author: Tuna Santra
+## Tools & Techniques
+
+* Microsoft Excel
+* Excel Formulas
+* Data Cleaning and Transformation
+* PivotTables
+* PivotCharts
+* Slicers
+* KPI Cards
+* Data Visualization
+* Interactive Dashboard Design
+
+## Project Workflow
+
+**Raw Data → Data Cleaning → Data Processing → Backend Calculations → PivotTables & Charts → Interactive Dashboard → Business Insights**
+
+## Workbook Structure
+
+The Excel workbook contains different sections for managing and analyzing the data:
+
+* **Dashboard** – Interactive dashboard containing KPIs, charts, and filters.
+* **RAW_DATA** – Original e-commerce transaction data.
+* **CLEAN_Data** – Cleaned and structured dataset prepared for analysis.
+* **Backend** – Supporting calculations and analysis used for the dashboard.
+* **Data_Dictionary** – Description and understanding of the dataset fields.
+
+## Skills Demonstrated
+
+This project demonstrates practical skills in **Microsoft Excel, data cleaning, data analysis, KPI development, PivotTables, PivotCharts, data visualization, dashboard development, and business intelligence**.
+
+## Conclusion
+
+This project demonstrates how Excel can be used to transform raw e-commerce data into an interactive analytical dashboard. The dashboard makes it easier to understand business performance, identify trends, compare different segments, and support data-driven decision-making.
+
+## Author
+
+**Tuna Santra**
