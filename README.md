@@ -76,8 +76,7 @@ The Excel workbook contains different sections for managing and analyzing the da
 This project demonstrates practical skills in **Microsoft Excel, data cleaning, data analysis, KPI development, PivotTables, PivotCharts, data visualization, dashboard development, and business intelligence**.
 
 ## Dashboard
-<img width="1778" height="624" alt="Screenshot 2026-09-01 225250" src="https://github.com/user-attachments/assets/b386fb8c-0475-4cad-893c-88cad73f86dc" />
-
+<img width="1348" height="627" alt="image" src="https://github.com/user-attachments/assets/030b5094-0dc3-4f56-b241-c9b367d8738d" />
 
 ## Conclusion
 
